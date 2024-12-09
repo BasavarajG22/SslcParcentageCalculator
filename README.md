@@ -5,12 +5,9 @@ The **SSLC Percentage Calculator** is a web-based tool that calculates the total
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Demo](#demo)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Features
 - Input fields for scores of six subjects: Kannada, English, Hindi, Maths, Science, and Social Science.
